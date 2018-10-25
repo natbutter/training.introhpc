@@ -124,7 +124,7 @@ Enter 'yes'. You will then be asked for your password; type it and press 'enter'
 
 <h2 data-toc-text="via SSH GUI apps"> Connecting via an SSH GUI (common for Windows users) </h2>
 
-If you're on Windows, and followed the [Setup](/setup) guide, then you will likely be connecting through an X-window or shell client program, like 'X-Win32' or 'PuTTY'. Following the instructions in the [Setup](/setup) guide
+If you're on Windows, and followed the [Setup](/setup) guide, then you will likely be connecting through an X-window or shell client program, like 'X-Win32' or 'PuTTY'. Following the instructions in the [Setup](https://sydney-informatics-hub.github.io/training.introhpc/setup.html) guide
 * Open your installed program
 * Select the "Artemis" session you configured earlier
 * Click 'Launch' (X-Win32) or 'Open' (PuTTY)
@@ -150,7 +150,7 @@ If this is the first time connecting to Artemis, you will be asked to authorise 
 
 <h2 data-toc-text="via graphical login nodes"> Connecting via an the Graphical Login Nodes (advanced users)</h2>
 
-For some users, it is occasionally necessary to have more reliable graphical access to the Artemis **login nodes**, in order to check intermediate results when using software with graphical outputs. Setup instructions are provided on the [Setup](/setup) page.
+For some users, it is occasionally necessary to have more reliable graphical access to the Artemis **login nodes**, in order to check intermediate results when using software with graphical outputs. Setup instructions are provided on the [Setup](https://sydney-informatics-hub.github.io/training.introhpc/setup.html) page.
 
 
 <br>   
